@@ -1,4 +1,4 @@
-### Hi there 👋
+![banner](https://raw.githubusercontent.com/s-shivangi/s-shivangi/master/banner.gif)
 
 <!--
 **s-shivangi/s-shivangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
